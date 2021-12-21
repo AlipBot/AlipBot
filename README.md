@@ -22,8 +22,8 @@
 
 <p align="center">
 <a href="https://github.com/Azex229/followers"><img title="Followers" src="https://img.shields.io/github/followers/azex229?color=blue&style=flat-square"></a>
-<a href="https://github.com/Azex229/Bot-Lord/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/azex229/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/arugaz/whatsapp-bot?color=red&style=flat-square"></a>
-<a href="https://github.com/arugaz/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/arugaz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Azex229/Bot-Lord/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Azex229/Bot-Lord?color=red&style=flat-square"></a>
+<a href="https://github.com/Azex229/Bot-Lord/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Azex229/Bot-Lord?color=red&style=flat-square"></a>
+<a href="https://github.com/Azex229/Bot-Lord/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Azex229/Bot-Lord?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzex229&count_bg=%23A8FF65&title_bg=%233E3E3E&icon=whatsapp.svg&icon_color=%2330FF00&title=hits&edge_flat=true"/></a>
 </p>
