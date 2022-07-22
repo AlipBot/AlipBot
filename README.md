@@ -11,7 +11,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Azex229"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AZEX229-yellow.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Alipbot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AZEX229-yellow.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
