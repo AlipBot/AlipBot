@@ -1,34 +1,31 @@
-### Hi, Selamat Datang ke Github Saya👋 dari MALAYSIA
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/80237144?s=400&u=53c85565148ac8a74d4ac6ef9cc379a269c9c507&v=4" width="128" height="128"/>
+<h1 align="center" style="font-size:250px">👋 Welcome to My Profile</h1>
+
+- 📚 Hobi coding nodejs tu je start coding from 12
+- 👀 Suka cari bende yang best dan menarik
+
+### 🛠 &nbsp;Tech Stacks
+
+![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
+![LUA](https://img.shields.io/badge/Lua-280137?style=flat&logo=lua)&nbsp;
+![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-280137?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center" class="d-flex justify-content-center align-items-center">
+  <a href="https://github.com/AlipBot">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlipBot&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlipBot&layout=compact&langs_count=8&theme=omni"/>
+  </a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-
-
+<a href="https://www.instagram.com/alipje29">
+<img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-alipje29-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<img alt="Steam" src="https://img.shields.io/badge/-ahlulmukh-4E94EC?style=flat&logo=Steam&logoColor=0a0b24"/></a>
 <p align="center">
-<a href="https://github.com/Alipbot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AZEX229-yellow.svg?style=for-the-badge&logo=github"></a>
-</p>
-
-
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/Azex229/Bot-Lord/overview/master"><img title="Rating" src="https://www.codefactor.io/repository/github/arugaz/whatsapp-bot/badge/master"></a>
-</p>
-
-
-<p align="center">
-<a href="https://github.com/Azex229/followers"><img title="Followers" src="https://img.shields.io/github/followers/azex229?color=blue&style=flat-square"></a>
-<a href="https://github.com/Azex229/Azex229/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Azex229/Azex229?color=red&style=flat-square"></a>
-<a href="https://github.com/Azex229/Azex229/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Azex229/Azex229?color=red&style=flat-square"></a>
-<a href="https://github.com/Azex229/Azez229/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Azex229/Azex229?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAzex229&count_bg=%23A8FF65&title_bg=%233E3E3E&icon=whatsapp.svg&icon_color=%2330FF00&title=hits&edge_flat=true"/></a>
-<a href="https://komarev.com/ghpvc/?username=Azex229&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Azex229&color=blue&style=flat-square&label=Profile+View"></a>
-</p>
-
-<p align="center">
-<a href="https://instagram.com/ff_azex229"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <a href="https://discord.com/users/949509197173755906"><img src="https://lanyard.cnrad.dev/api/949509197173755906?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
 </p>
