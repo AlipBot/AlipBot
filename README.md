@@ -25,6 +25,4 @@
 <p align="center">
 <a href="https://www.instagram.com/alipje29">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-alipje29-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<p align="center">
-    <a href="https://discord.com/users/949509197173755906"><img src="https://lanyard.cnrad.dev/api/949509197173755906?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
-</p>
+
