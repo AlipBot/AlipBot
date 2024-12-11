@@ -20,6 +20,9 @@
   </a>
 </p>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/949509197173755906?theme=light&bg=008000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/949509197173755906)
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
