@@ -10,7 +10,7 @@
 - 🧠 Started coding at 12 through **Lua scripting**, now leveling up programming fundamentals
 - 🔌 Into **embedded systems** — ESP32, Arduino, IR & Bluetooth projects
 - 🎧 Budget-audiophile hobbyist — IEMs, USB DACs, firmware flashing
-- 🎮 Gaming: MLBB, Valorant, Minecraft (mods & shaders)
+- 🎮 Gaming: MLBB, Valorant, Minecraft 
 - 🐧I have also installed Linux (Arch + Hyperland)
 - 💬 Ask me about embedded hardware
 
