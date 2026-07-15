@@ -11,7 +11,7 @@
 - 🔌 Into **embedded systems** — ESP32, Arduino, IR & Bluetooth projects
 - 🎧 Budget-audiophile hobbyist — IEMs, USB DACs, firmware flashing
 - 🎮 Gaming: MLBB, Valorant, Minecraft (mods & shaders)
-- 🐧 Also comfortable on Linux (Arch + Hyprland)
+- 🐧I have also installed Linux (Arch + Hyperland)
 - 💬 Ask me about embedded hardware
 
 ### 🛠 Tech Stack
